@@ -1,2 +1,0 @@
-# Time Blocking in Fantastical
-
