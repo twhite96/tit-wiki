@@ -1,7 +1,7 @@
 module.exports = {
-  pathPrefix: '',
+  pathPrefix: "",
   siteMetadata: {
-    title: `...tiff is typing notes`,
+    title: `tiff's seedlings`,
   },
   plugins: [
     {
@@ -9,6 +9,7 @@ module.exports = {
       options: {
         rootNote: "/index",
         contentPath: `${__dirname}/..`,
+        parseWikiLinks: true,
         ignore: [
           "**/_layouts/**",
           "**/.git/**",

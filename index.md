@@ -7,3 +7,7 @@ Here are an unformed collection of thoughts on... well anything: games, books, y
 Start here:
 
 [[movies]]
+[[books]]
+[[projects]]
+[[quotes]]
+[[errata]]
