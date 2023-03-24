@@ -2,5 +2,5 @@
 
 The latest movies I've seen this year:
 
-[[carrie]]
-[[gamer 2009]]
+- [[carrie]]
+- [[gamer 2009]]
