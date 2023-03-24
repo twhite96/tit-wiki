@@ -1,5 +1,5 @@
 :root {
-  --primary-color: #06d7d9;
+  --primary-color: #ff1493;
   --font-family: "Source Sans Pro", sans-serif;
 }
 
@@ -23,7 +23,7 @@ blockquote {
   padding-left: .5em !important;
   position: relative !important;
   font-family: "Inter", sans-serif;
-  border-left: 2px solid #06d7d9 !important;
+  border-left: 2px solid var(--primary-color) !important;
   font-style: italic !important;
   color: #a1a1a7 !important;
 }
