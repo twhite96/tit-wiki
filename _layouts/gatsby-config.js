@@ -1,7 +1,7 @@
 module.exports = {
   pathPrefix: "",
   siteMetadata: {
-    title: `tiff's seedlings`,
+    title: `tiff's seedlings 🌱`,
   },
   plugins: [
     {
