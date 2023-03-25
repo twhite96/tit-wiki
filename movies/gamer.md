@@ -1,4 +1,4 @@
-# Gamer 2009
+# Gamer
 
 This movie was *terrible*.
 
