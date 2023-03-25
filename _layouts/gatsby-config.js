@@ -7,7 +7,7 @@ module.exports = {
     {
       resolve: `gatsby-theme-garden`,
       options: {
-        rootNote: "/index.md",
+        rootNote: "/index",
         contentPath: `${__dirname}/..`,
         ignore: [
           "**/_layouts/**",
