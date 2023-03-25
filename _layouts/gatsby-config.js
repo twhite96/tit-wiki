@@ -1,7 +1,7 @@
 module.exports = {
   pathPrefix: '',
   siteMetadata: {
-    title: `tiff's seedlings`,
+    title: `tiff's seedlings 🌱`,
   },
   plugins: [
     {
@@ -9,7 +9,7 @@ module.exports = {
       options: {
         rootNote: "/index",
         contentPath: `${__dirname}/..`,
-        parseWikiLinks: true,
+        // parseWikiLinks: true,
         ignore: [
           "**/_layouts/**",
           "**/.git/**",
