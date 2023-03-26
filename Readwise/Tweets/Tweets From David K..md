@@ -1,4 +1,4 @@
-# Tweets From David K. 🎹
+# Tweets From David K. 
 
 ![rw-book-cover](https://pbs.twimg.com/profile_images/619677584805208064/RwwbnNpi.jpg)
 

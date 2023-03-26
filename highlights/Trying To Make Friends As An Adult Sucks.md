@@ -1,7 +1,7 @@
 ## Metadata
 * URL: [https://gregmorris.co.uk/blog/trying-to-make-friends-as-an-adult-sucks/](https://gregmorris.co.uk/blog/trying-to-make-friends-as-an-adult-sucks/)
 * Published Date: 2022-03-13
-    * Title: [[Trying To Make Friends As An Adult Sucks]]
+    * Title: [[highlights/Trying To Make Friends As An Adult Sucks]]
 
 ## Highlights
 * love working from home.
