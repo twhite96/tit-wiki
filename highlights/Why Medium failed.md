@@ -1,0 +1,8 @@
+## Metadata
+* URL: [https://simonowens.substack.com/p/why-medium-failed](https://simonowens.substack.com/p/why-medium-failed)
+* Published Date: 2022-07-20
+    * Title: [[Why Medium failed]]
+* Author: [[Simon Owens]]
+
+## Highlights
+* Ev Williams didn't fully realize how the Creator Economy would evolve.
