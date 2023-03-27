@@ -1,3 +1,5 @@
+# Viewer Data Suggests Many Netflix Hits Go From Sizzle to Fizzle Quickly
+
 ## Metadata
 * URL: [https://variety.com/vip/viewer-data-suggests-many-netflix-hits-go-from-sizzle-to-fizzle-quickly-1235165681/](https://variety.com/vip/viewer-data-suggests-many-netflix-hits-go-from-sizzle-to-fizzle-quickly-1235165681/)
 * Published Date: 2022-01-31

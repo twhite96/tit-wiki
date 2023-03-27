@@ -1,3 +1,5 @@
+# The gritty reality for Substack’s middle class
+
 ## Metadata
 * URL: [https://simonowens.substack.com/p/the-gritty-reality-for-substacks](https://simonowens.substack.com/p/the-gritty-reality-for-substacks)
 * Published Date: 2021-09-01

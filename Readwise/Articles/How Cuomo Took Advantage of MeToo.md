@@ -1,3 +1,5 @@
+# How Cuomo Took Advantage of MeToo
+
 ## Metadata
 * URL: [https://www.nytimes.com/2021/08/07/nyregion/andrew-cuomo-metoo.html](https://www.nytimes.com/2021/08/07/nyregion/andrew-cuomo-metoo.html)
 * Published Date: 2021-08-07

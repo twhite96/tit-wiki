@@ -1,3 +1,5 @@
+# Substack Launches App, Substack and the Four Bens, In-App Purchase and the Substack Bundle (Stratechery Update 3-14-2022)
+
 ## Metadata
 * URL: [https://stratechery.com/2022/substack-launches-app-substack-and-the-four-bens-in-app-purchase-and-the-substack-bundle/](https://stratechery.com/2022/substack-launches-app-substack-and-the-four-bens-in-app-purchase-and-the-substack-bundle/)
 * Published Date: 2022-03-14

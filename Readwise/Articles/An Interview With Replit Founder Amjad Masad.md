@@ -1,3 +1,5 @@
+# An Interview With Replit Founder Amjad Masad
+
 ## Metadata
 * URL: [https://stratechery.com/2022/an-interview-with-replit-founder-amjad-masad/](url)
 * Author: Ben Thompson

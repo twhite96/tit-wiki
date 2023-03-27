@@ -363,3 +363,24 @@ Here you'll find some of my Readwise highlights on the articles I've read.
   Some express jealousy that I get to be my own boss and engage in creatively rewarding work. Others declare they could never follow that career path because they simply don’t have the discipline to do so.
   Every day, I drag myself out of bed at 7 a.m. and tackle a long list of tasks. I do this regardless of whether I’m feeling inspired that day, and sometimes I work very long hours so I can meet my weekly production goals. This takes a tremendous amount of self-motivation and discipline, and that’s not something that everyone has...[...cont]
 ---
+
+---
+## [[An Interview With Replit Founder Amjad Masad]]
+
+## Highlights
+* I got into technology fairly early on, my father got a computer, although he was an engineer working for the government, not making a lot of money, he was really interested in computers. I think it was 1993, I was six years old and it’s one of my earliest memories, looking over my father’s shoulder and seeing him typing DOS commands, single-finger, typing the commands and I was able to really understand intuitively what computers were.
+  * **Note**: I wonder how much more money his family had compared to his brethren in Jordan 🤔
+* the precursor to Replit is an open source project that I wrote that was one of the first projects to make it possible to code in the browser. You could write some JavaScript in the browser, but you couldn’t run Python or say Java or Ruby or what have you, and so it was just a technical breakthrough and open source breakthrough. We were in Hacker News and a bunch of places, that was 2011, and that got me a job at Code Academy, because they used our open source software and Code Academy was in YC, I joined them first as an engineer, they got me an O-1 Visa and I came to the United States to work at a YC company.
+---
+
+---
+## [[Farewell, OmniFocus, farewell!]]
+
+## Metadata
+* URL: [https://go-paperless.net/2022/04/20/farewell-omnifocus-farewell/](https://go-paperless.net/2022/04/20/farewell-omnifocus-farewell/)
+* Published Date: 2022-04-20
+    * Title: [[Farewell, OmniFocus, farewell!]]
+* Author: [[Von Jan Schaller]]
+
+## Highlights
+* However, sometimes it feels like a company is moving in a direction you don’t want to follow anymore. I had this feeling first when OmniFocus introduced its built-in automation engine. Yes, it is an incredible achievement from a technical standpoint. However – how many users need this on even a semiregular basis? It seems to me that this is only used by such a tiny fraction of the user base that it feels more like being developed for themselves and probably a handful of extreme automation power users. Don’t get me wrong, no offense against extreme automation power users. I just think that they have left an approach which is useful to most of their users. I am not certain if this is something that serves them well in the future.

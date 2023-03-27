@@ -1,3 +1,5 @@
+# The Fragile Open Source Ecosystem Isn't Ready for "Protestware"
+
 ## Metadata
 * URL: [https://www.wired.com/story/open-source-sabotage-protestware/?bxid=621d5f6ee1edea165f7bcfec&cndid=68808180&esrc=register-page&source=EDT_WIR_NEWSLETTER_0_DAILY_ZZ](https://www.wired.com/story/open-source-sabotage-protestware/?bxid=621d5f6ee1edea165f7bcfec&cndid=68808180&esrc=register-page&source=EDT_WIR_NEWSLETTER_0_DAILY_ZZ)
 * Published Date: 2022-03-25

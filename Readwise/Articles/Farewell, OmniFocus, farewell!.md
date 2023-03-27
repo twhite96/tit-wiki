@@ -1,3 +1,5 @@
+# Farewell, OmniFocus, farewell!
+
 ## Metadata
 * URL: [https://go-paperless.net/2022/04/20/farewell-omnifocus-farewell/](https://go-paperless.net/2022/04/20/farewell-omnifocus-farewell/)
 * Published Date: 2022-04-20
