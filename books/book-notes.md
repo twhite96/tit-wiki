@@ -6,7 +6,7 @@ A lot of what you see here is inspired by [amit's notes](https://wiki.amitg.net/
 
 ---
 
-## [[It's All Too Much]] 
+## [[It's All Too Much]]
 [rw-book-cover](https://kbimages1-a.akamaihd.net/a2d08929-7f1a-4f1b-a354-a32137b0c4f9/it-s-all-too-much-1.jpg)
 
 ## Metadata
