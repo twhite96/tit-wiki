@@ -5,7 +5,7 @@ You and I read a lot or else we wouldn't be taking so many notes. I have a premi
 Here you'll find some of my Readwise highlights on the articles I've read.
 
 ---
-# Composing Software: An Introduction
+## [[Composing Software An Introduction]]
 
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article3.5c705a01b476.png)
 
@@ -21,7 +21,7 @@ Here you'll find some of my Readwise highlights on the articles I've read.
 - In 2013, a jury found Toyota’s software development team guilty of “reckless disregard” after an accident investigation revealed spaghetti code with 10,000 global variables.
 
 ---
-# Essential Skills Every Developer Should Master
+## [[Essential Skills Every Developer Should Master]]
 
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article4.6bc1851654a0.png)
 
@@ -36,7 +36,7 @@ Here you'll find some of my Readwise highlights on the articles I've read.
 ---
 
 ---
-# Everything You Need to Know About CSS Variables
+## [[Everything You Need to Know About CSS Variables]]
 
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article4.6bc1851654a0.png)
 
@@ -51,7 +51,7 @@ Here you'll find some of my Readwise highlights on the articles I've read.
 ---
 
 ---
-# GitHub Broke My 1,000 Day Streak
+## [[GitHub Broke My 1,000 Day Streak]]
 
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article4.6bc1851654a0.png)
 
@@ -69,7 +69,7 @@ Here you'll find some of my Readwise highlights on the articles I've read.
 ---
 
 ---
-# How I Turned a Rejected Conference Talk Into 300K Views on Medium and YouTube
+## [[How I Turned a Rejected Conference Talk Into 300K Views on Medium and YouTube]]
 
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article1.be68295a7e40.png)
 
@@ -87,7 +87,7 @@ Here you'll find some of my Readwise highlights on the articles I've read.
 ---
 
 ---
-# How Node and Javascript Handle Asynchronous Functions
+## [[How Node and Javascript Handle Asynchronous Functions]]
 
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article0.00998d930354.png)
 
@@ -111,14 +111,10 @@ Here you'll find some of my Readwise highlights on the articles I've read.
 - When a function is called, it is added to the top of the stack and run. If that function calls another function, it is then added to the top of the stack and then it is run. Only the function at the top of the stack is the one that can be run.
 - The call stack is a mechanism in Javascript used to keep track of where it is in a program.
 - It knows which functions are currently being run and which to call next.
-- callback queue
-- This is a kind of holding area where callback functions go once they are called.
-- The catch with the call stack is that you can only add things to the top of the stack. It’s a last-in-first-out (LIFO) idea.
-- The callback queue works together with the event loop to execute callback functions at the right time. The event loop checks the call stack to see if it is empty. If it is then the first callback function in the callback queue gets executed, then the second etc. If the call stack is not empty, then those callback functions wait.
----
+- callback queue...
 
 ---
-# How the “Golden Rule” of React Components Can Help You Write Better Code
+## [[How the “Golden Rule” of React Components Can Help You Write Better Code]]
 
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article0.00998d930354.png)
 
@@ -133,7 +129,7 @@ Here you'll find some of my Readwise highlights on the articles I've read.
 ---
 
 ---
-# How to Trim Strings in JavaScript
+## [[How to Trim Strings in JavaScript]]
 
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article4.6bc1851654a0.png)
 
@@ -148,7 +144,7 @@ Here you'll find some of my Readwise highlights on the articles I've read.
 ---
 
 ---
-# I’m a Boring Programmer
+## [[I’m a Boring Programmer]]
 
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article0.00998d930354.png)
 
@@ -165,7 +161,7 @@ Here you'll find some of my Readwise highlights on the articles I've read.
 ---
 
 ---
-# JavaScript Arrays and Objects Are Just Like Books and Newspapers
+## [[JavaScript Arrays and Objects Are Just Like Books and Newspapers]]
 
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article1.be68295a7e40.png)
 
@@ -180,7 +176,7 @@ Here you'll find some of my Readwise highlights on the articles I've read.
 ---
 
 ---
-# Javascript Passing by Value vs. Reference Explained in Plain English
+## [[Javascript Passing by Value vs. Reference Explained in Plain English]]
 
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article2.74d541386bbf.png)
 
@@ -195,7 +191,7 @@ Here you'll find some of my Readwise highlights on the articles I've read.
 ---
 
 ---
-# My Daughter Was a Creative Genius, Then We Bought Her an iPhone
+## [[My Daughter Was a Creative Genius, Then We Bought Her an iPhone]]
 
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article0.00998d930354.png)
 
@@ -210,7 +206,7 @@ Here you'll find some of my Readwise highlights on the articles I've read.
 ---
 
 ---
-# My So-Called (Millennial) Entitlement
+## [[My So-Called (Millennial) Entitlement]]
 
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article4.6bc1851654a0.png)
 
@@ -225,7 +221,7 @@ Here you'll find some of my Readwise highlights on the articles I've read.
 ---
 
 ---
-# One Side Note, You Can’t Crowdsource Writing a Good Movie Script or Writing Good Music.
+## [[One Side Note, You Can’t Crowdsource Writing a Good Movie Script or Writing Good Music.]]
 
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article0.00998d930354.png)
 
@@ -240,7 +236,7 @@ Here you'll find some of my Readwise highlights on the articles I've read.
 ---
 
 ---
-# React Props/State Explained Through Darth Vader’s Hunt for the Rebels
+## [[React PropsState Explained Through Darth Vader’s Hunt for the Rebels]]
 
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article2.74d541386bbf.png)
 
@@ -256,7 +252,7 @@ Here you'll find some of my Readwise highlights on the articles I've read.
 ---
 
 ---
-# Simple Timer in React
+## [[Simple Timer in React]]
 
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article0.00998d930354.png)
 
@@ -271,7 +267,7 @@ Here you'll find some of my Readwise highlights on the articles I've read.
 ---
 
 ---
-# Structures in Go
+## [[Structures in Go]]
 
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article1.be68295a7e40.png)
 
@@ -286,7 +282,7 @@ Here you'll find some of my Readwise highlights on the articles I've read.
 ---
 
 ---
-# The Curse of Free
+## [[The Curse of Free]]
 
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article1.be68295a7e40.png)
 
@@ -298,12 +294,10 @@ Here you'll find some of my Readwise highlights on the articles I've read.
 
 ## Highlights
 - Amazon is burning billions on Alexa because voice assistants need massive infrastructure but can’t be monetized. Google Cloud is $700 million in the red as of last earnings and heading south to a state of madness like a New Jersey retiree. These are mature products in saturated markets. You don’t need an MBA to know what will happen. But even the dean of Harvard Business School can’t say when.
-- Goodwins’ post reminded me of the other curse of free-to-user services, though, which is their inherently predatory quality. Google was able to buy up a bunch of other companies to create Google Maps, which it then offered free — a move that benefitted both users and Google itself. But it also put a damper on the rest of the industry as few substantial competitors to Google Maps existed for the better part of a decade following its launch. Not only did Google boost its other businesses through mapping data — for example, being able to show nearby business results in search — it also offered developer integrations and API keys. After few major competitors remained and even high-budget attempts like Apple’s were struggling, Google dramatically increased pricing for developers. Today, the landscape looks a little different with Apple’s increased dedication and third-party efforts like Felt, but we should not ignore how dangerous it is for deep-pocketed companies to undercut competitors through pricing schemes like these.
-    - Note: This may be a bit concerning because of the API access and the amount of Amazon and Google smart speakers I have in my home.
----
+- Goodwins’ post reminded me of the other curse of free-to-user services, though, which is their inherently predatory quality. Google was able to buy up a bunch of other companies to...
 
 ---
-# The Junior Developer’s Guide to Writing Super Clean and Readable Code
+## [[The Junior Developer’s Guide to Writing Super Clean and Readable Code]]
 
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article1.be68295a7e40.png)
 
@@ -318,7 +312,7 @@ Here you'll find some of my Readwise highlights on the articles I've read.
 ---
 
 ---
-# The Real Reason Quirky Failed
+## [[The Real Reason Quirky Failed]]
 
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article4.6bc1851654a0.png)
 
@@ -334,7 +328,7 @@ Here you'll find some of my Readwise highlights on the articles I've read.
 ---
 
 ---
-# The Truth About Your Source of Truth
+## [[The Truth About Your Source of Truth]]
 
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article2.74d541386bbf.png)
 
@@ -349,7 +343,7 @@ Here you'll find some of my Readwise highlights on the articles I've read.
 ---
 
 ---
-# The Two Pillars of JavaScript
+## [[The Two Pillars of JavaScript]]
 
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article2.74d541386bbf.png)
 
@@ -363,16 +357,10 @@ Here you'll find some of my Readwise highlights on the articles I've read.
 - The copy mechanism is another form of prototypal inheritance. Sources of clone properties are a specific kind of prototype called exemplar prototypes, and cloning an exemplar prototype is known as concatenative inheritance.
 - If constructor behavior is the frying pan, classical inheritance isn’t the fire; it’s the fire from Dante’s seventh circle of hell.
 - JavaScript doesn’t need constructor functions because any function can return a new object. With dynamic object extension, object literals and `Object.create()`, we have everything we need — with none of the mess. And `this` behaves just like it does in any other function. Hurray!
-- In JavaScript, factory functions are simply constructor functions minus the `new` requirement, global pollution danger and awkward limitations (including that annoying initial capitalized letter convention).
-- Constructors that aren’t running in strict mode can be downright dangerous, too. If a caller forgets `new` and you’re not using strict mode or ES6 classes [sigh], anything you assign to `this` will pollute the global namespace. That’s ugly.
-- If you return an arbitrary object from a constructor function, it will break your prototype links, and the `this` keyword will no longer be bound to the new object instance in the constructor. It’s also less flexible than a real factory function because you can’t use `this` at all in the factory; it just gets thrown away.
-- Constructors violate the open/closed principle because they couple all callers to the details of how your object gets instantiated. Making an HTML5 game? Want to change from new object instances to use object pools so you can recycle objects and stop the garbage collector from trashing your frame rate? Too bad. You’ll either break all the callers, or you’ll end up with a hobbled factory function.
-- taxonomy
-- factory function
----
+- In JavaScript, factory functions are simply constructor functions minus the `new` requirement, global pollution danger and awkward limitations (including that annoying initial capitalized letter convention)...
 
 ---
-# Understanding State and Props in React
+## [[Understanding State and Props in React]]
 
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article2.74d541386bbf.png)
 
@@ -386,18 +374,12 @@ Here you'll find some of my Readwise highlights on the articles I've read.
 - State is used for mutable data, or data that will change. This is particularly useful for user input. Think search bars for example. The user will type in data and this will update what they see.
 - Props are used to pass data from parent to child or by the component itself. They are immutable and thus will not be changed.
 - Props and State do similar things but are used in different ways. The majority of your components will probably be stateless.
-- So state is used so that a component can keep track of information in between any renders that it does. When you setState it updates the state object and then re-renders the component. This is super cool because that means React takes care of the hard work and is blazingly fast.
-- Props shouldn’t change, so state steps up.
-- So we’re happy. Components receive data from the parent. All sorted, right?
-- Well, this is why we have state.
-- Well, not quite. What happens when a component receives data from someone other than the parent? What if the user inputs data directly to the component?
-- This is why people refer to React as having uni-directional data flow. This takes a bit of getting your head around and I’ll probably blog on this later, but for now just remember: data flows from parent to child. Props are immutable (fancy word for it not changing)
-- Normally components don’t have state and so are referred to as stateless.
-- If you’re at all familiar with React then you should know that props flow downwards from the parent component.
+- So state is used so that a component can keep track of information in between any renders that it does. When you setState it updates the state object and then re-renders the component. This is super cool because that means React takes care of the hard work and is blazingly fast...
+
 ---
 
 ---
-# Use a Render Prop
+## [[Use a Render Prop]]
 
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article1.be68295a7e40.png)
 
@@ -412,7 +394,7 @@ Here you'll find some of my Readwise highlights on the articles I've read.
 ---
 
 ---
-# What I’m Telling Business People About Why Relational Databases Are So Bad
+## [[What I’m Telling Business People About Why Relational Databases Are So Bad]]
 
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article2.74d541386bbf.png)
 
@@ -427,7 +409,7 @@ Here you'll find some of my Readwise highlights on the articles I've read.
 ---
 
 ---
-# When I’m Hiring, I Find Most People Don’t Understand the Purpose of Commenting.
+## [[When I’m Hiring, I Find Most People Don’t Understand the Purpose of Commenting.]]
 
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article3.5c705a01b476.png)
 
@@ -442,7 +424,7 @@ Here you'll find some of my Readwise highlights on the articles I've read.
 ---
 
 ---
-# When the Racist Is Someone You Know and Love…
+## [[When the Racist Is Someone You Know and Love…]]
 
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article2.74d541386bbf.png)
 
@@ -453,11 +435,11 @@ Here you'll find some of my Readwise highlights on the articles I've read.
 - URL: https://medium.com/p/2933c7049182
 
 ## Highlights
-- Like most kids from dysfunctional homes, I’ve never felt good enough. Especially in heightened situations like these, that overflow with money and prestige. The clues are all there. I eat too fast, from years of half-hour breaks during waitressing shifts. My nails aren’t manicured. I’m quirky, not coiffed. But it’s something more. It’s who I am, the way I move. I’m just not put together enough and it’s only a matter of time before they realize I’m a fraud.
+- Like most kids from dysfunctional homes, I’ve never felt good enough...
 ---
 
 ---
-# Why Creators Are in Less of a Rush to Quit Their Day Jobs
+## [[Why Creators Are in Less of a Rush to Quit Their Day Jobs]]
 
 ![rw-book-cover](https://substackcdn.com/image/fetch/w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fad127a5d-7397-4297-b51b-902e3d856022_256x256.png)
 
@@ -470,15 +452,11 @@ Here you'll find some of my Readwise highlights on the articles I've read.
 ## Highlights
 - A small percentage will make enough to quit their 9-to-5 and pursue content creation full-time. However, a growing number of so-called “influencers” are rejecting this move, even when their follower count indicates they could be earning enough off social media alone. Instead, they are opting to keep their day jobs, and, for some, it’s proving lucrative. ([View Highlight](https://read.readwise.io/read/01gphaxcky165v1vxsp6943vzn))
     - Tags: [[favorite]] 
-- Whenever I tell strangers about what I do for a living, I usually receive two types of responses.
-  Some express jealousy that I get to be my own boss and engage in creatively rewarding work. Others declare they could never follow that career path because they simply don’t have the discipline to do so.
-  Every day, I drag myself out of bed at 7 a.m. and tackle a long list of tasks. I do this regardless of whether I’m feeling inspired that day, and sometimes I work very long hours so I can meet my weekly production goals. This takes a tremendous amount of self-motivation and discipline, and that’s not something that everyone has.
-  A lot of people enjoy the structure of the workplace — so much so that they hated the pandemic-induced work-from-home policies. They need deadlines and bosses breathing down their necks, and for some reason they don’t mind wasting hours each week driving to and from the office. For them, the day job is a feature, not a bug, and they don’t have dreams of working in coffee shops and trapezing around the globe. They’re perfectly fulfilled creating their content on nights and weekends, and any revenue they generate from that content is just an added bonus. ([View Highlight](https://read.readwise.io/read/01gphaxtgj3m370g4r9hsqjh5m))
-    - Note: Wow what a #grindset 🙄
+
 ---
 
 ---
-# Why Everyone Is Talking About Isomorphic / Universal JavaScript and Why It Matters
+## [[Why Everyone Is Talking About Isomorphic  Universal JavaScript and Why It Matters]]
 
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article4.6bc1851654a0.png)
 
@@ -493,7 +471,7 @@ Here you'll find some of my Readwise highlights on the articles I've read.
 ---
 
 ---
-# Why Most Fitness Apps Don’t Work
+## [[Why Most Fitness Apps Don’t Work]]
 
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article1.be68295a7e40.png)
 
@@ -508,7 +486,7 @@ Here you'll find some of my Readwise highlights on the articles I've read.
 ---
 
 ---
-# Why the Founder of Rails Automatically Rejects 80% of Software Engineer Applicants
+## [[Why the Founder of Rails Automatically Rejects 80 Percent of Software Engineer Applicants]]
 
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article0.00998d930354.png)
 
