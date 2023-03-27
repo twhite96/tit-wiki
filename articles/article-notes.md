@@ -5,7 +5,10 @@ You and I read a lot or else we wouldn't be taking so many notes. I have a premi
 Here you'll find some of my Readwise highlights on the articles I've read.
 
 ---
+
+---
 ## [[Composing Software An Introduction]]
+
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article3.5c705a01b476.png)
 
 ## Metadata
@@ -18,8 +21,7 @@ Here you'll find some of my Readwise highlights on the articles I've read.
 - Likewise, every time you chain array method calls, lodash methods, observables (RxJS, etc…) you’re composing functions. If you’re chaining, you’re composing. If you’re passing return values into other functions, you’re composing. If you call two methods in a sequence, you’re composing using this as input data.
 - The process of software development is breaking down large problems into smaller problems, building components that solve those smaller problems, then composing those components together to form a complete application.
 - In 2013, a jury found Toyota’s software development team guilty of “reckless disregard” after an accident investigation revealed spaghetti code with 10,000 global variables.
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article3.5c705a01b476.png)
+---
 
 ---
 ## [[Essential Skills Every Developer Should Master]]
@@ -49,24 +51,6 @@ Here you'll find some of my Readwise highlights on the articles I've read.
 
 ## Highlights
 - In this case, the properties that differ are the background-color and border-color of the variant.
----
-
----
-## [[GitHub Broke My 1,000 Day Streak]]
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article4.6bc1851654a0.png)
-
-## Metadata
-- Author: [[Jed Watson]]
-- Full Title: GitHub Broke My 1,000 Day Streak
-- Category: #articles
-- URL: https://medium.com/p/6ec0c4c3a7d9
-
-## Highlights
-- Starting an Open Source project and dedicating yourself to it can get you some great friends and unique experiences. Lesson #6
-- If you’re going to do something hard, be smart about it, and set it up to be sustainable. Lesson #5
-- Turns out being disciplined can be social and fun. Lesson #4
-- If things are good for you, the people who love you will notice and encourage them. Lesson #3
 ---
 
 ---
@@ -107,12 +91,26 @@ Here you'll find some of my Readwise highlights on the articles I've read.
 - Here, the console of ‘second’ happened after ‘last’. Why? Because that console.log() statement is in a callback function which gets executed out of order. And since Javascript is non-blocking it continues on executing more functions. In this case, the ‘last’ console.log() gets executed and then finally the callback function is fired and ‘second’ is seen on the screen.
 - In order to mimic something like an asynchronous call we can use the ‘setTimeout’ method. This takes two arguments; the first is a function which will be a callback function, and the second is the amount of time to delay calling that function in milliseconds.
 - This necessity happens most often with programs that make requests over the network to retrieve data.
-- A blocking function can be bad since everything in the program stops and waits for that function to finish before it can continue. They can also be necessary since sometimes you have to wait for one part of a program to finish before continuing on to the next.
-- Callback functions are part of what is referred to as ‘asynchronous’ operations in Javascript. Asynchronous operations are those that are done in a different order than how they are listed in the program. Javascript has the ability to handle functions this way so that none of them, if written correctly, become a ‘blocking’ function.
-- When a function is called, it is added to the top of the stack and run. If that function calls another function, it is then added to the top of the stack and then it is run. Only the function at the top of the stack is the one that can be run.
-- The call stack is a mechanism in Javascript used to keep track of where it is in a program.
-- It knows which functions are currently being run and which to call next.
-- callback queue...
+- A blocking function can be bad since everything in the program stops and waits for that function to finish before it can continue. They can also be necessary since sometimes you have to wait for one part of a program to finish before continuing on to the next...
+---
+
+---
+## [[GitHub Broke My 1,000 Day Streak]]
+
+![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article4.6bc1851654a0.png)
+
+## Metadata
+- Author: [[Jed Watson]]
+- Full Title: GitHub Broke My 1,000 Day Streak
+- Category: #articles
+- URL: https://medium.com/p/6ec0c4c3a7d9
+
+## Highlights
+- Starting an Open Source project and dedicating yourself to it can get you some great friends and unique experiences. Lesson #6
+- If you’re going to do something hard, be smart about it, and set it up to be sustainable. Lesson #5
+- Turns out being disciplined can be social and fun. Lesson #4
+- If things are good for you, the people who love you will notice and encourage them. Lesson #3
+---
 
 ---
 ## [[How the “Golden Rule” of React Components Can Help You Write Better Code]]
@@ -209,6 +207,7 @@ Here you'll find some of my Readwise highlights on the articles I've read.
 ---
 ## [[My So-Called (Millennial) Entitlement]]
 
+
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article4.6bc1851654a0.png)
 
 ## Metadata
@@ -218,7 +217,7 @@ Here you'll find some of my Readwise highlights on the articles I've read.
 - URL: https://medium.com/p/9be84343c713
 
 ## Highlights
-- I’ll go: I don’t expect to own a home. I don’t expect to retire well, or at all. I don’t expect anyone to give me anything I haven’t explicitly asked for, and even then. I don’t expect it will ever be affordable to continue my education in any formal way. If a package gets lost in the mail, I don’t expect to see it again. I don’t expect the government or the banks or the universities to do anything that benefits regular people. I don’t expect them to hold each other accountable on our behalf. I don’t expect them to expel abusers from their ranks, or to put my safety over their legacy. I don’t expect to feel safe in large crowds or alone late at night. And I don’t expect that my privacy will be respected, online or in general.
+- I’ll go: I don’t expect to own a home. I don’t expect to retire well, or at all. I don’t expect...
 ---
 
 ---
@@ -253,36 +252,6 @@ Here you'll find some of my Readwise highlights on the articles I've read.
 ---
 
 ---
-## [[Simple Timer in React]]
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article0.00998d930354.png)
-
-## Metadata
-- Author: [[Egor Egorov]]
-- Full Title: Simple Timer in React
-- Category: #articles
-- URL: https://medium.com/p/df85d0867553
-
-## Highlights
-- We want to use Date.now() to get the timestamp in milliseconds and only use the setInterval() for updating as fast as it lets us. For this we will need to remember the timestamp when we start the timer and compare it to the current timestamp to get the milliseconds that have passed. We will need to add another property to our state object, the start time. We will set the start time to the current timestamp when start button is clicked.
----
-
----
-## [[Structures in Go]]
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article1.be68295a7e40.png)
-
-## Metadata
-- Author: [[Uday Hiwarale]]
-- Full Title: Structures in Go
-- Category: #articles
-- URL: https://medium.com/p/76377cc106a2
-
-## Highlights
-- A struct or structure can be compared with the class in the Object-Oriented Programming paradigm. If you don’t know what OOP is, then imagine struct being a recipe that declares the ingredients and the kind of each ingredient.
----
-
----
 ## [[The Curse of Free]]
 
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article1.be68295a7e40.png)
@@ -294,26 +263,12 @@ Here you'll find some of my Readwise highlights on the articles I've read.
 - URL: https://www.inoreader.com/article/3a9c6e75e0bf05e6-the-curse-of-free
 
 ## Highlights
-- Amazon is burning billions on Alexa because voice assistants need massive infrastructure but can’t be monetized. Google Cloud is $700 million in the red as of last earnings and heading south to a state of madness like a New Jersey retiree. These are mature products in saturated markets. You don’t need an MBA to know what will happen. But even the dean of Harvard Business School can’t say when.
-- Goodwins’ post reminded me of the other curse of free-to-user services, though, which is their inherently predatory quality. Google was able to buy up a bunch of other companies to...
-
----
-## [[The Junior Developer’s Guide to Writing Super Clean and Readable Code]]
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article1.be68295a7e40.png)
-
-## Metadata
-- Author: [[Chris Blakely]]
-- Full Title: The Junior Developer’s Guide to Writing Super Clean and Readable Code
-- Category: #articles
-- URL: https://medium.com/p/cd2568e08aae
-
-## Highlights
-- Moved the displayOutput() logic into its own method - if the output needs to change, we only need to change it one place
+- Amazon is burning billions on Alexa because voice assistants need massive infrastructure but can’t be monetized. Google Cloud is $700 million in the red as of last earnings and heading south to a state of madness like a New Jersey retiree. These are mature products in saturated markets. You don’t need an MBA to know what will happen. But even the dean of Harvard Business School can’t say when....
 ---
 
 ---
 ## [[The Real Reason Quirky Failed]]
+
 
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article4.6bc1851654a0.png)
 
@@ -344,57 +299,6 @@ Here you'll find some of my Readwise highlights on the articles I've read.
 ---
 
 ---
-## [[The Two Pillars of JavaScript]]
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article2.74d541386bbf.png)
-
-## Metadata
-- Author: [[Eric Elliott]]
-- Full Title: The Two Pillars of JavaScript
-- Category: #articles
-- URL: https://medium.com/p/ee6f3281e7f3
-
-## Highlights
-- The copy mechanism is another form of prototypal inheritance. Sources of clone properties are a specific kind of prototype called exemplar prototypes, and cloning an exemplar prototype is known as concatenative inheritance.
-- If constructor behavior is the frying pan, classical inheritance isn’t the fire; it’s the fire from Dante’s seventh circle of hell.
-- JavaScript doesn’t need constructor functions because any function can return a new object. With dynamic object extension, object literals and `Object.create()`, we have everything we need — with none of the mess. And `this` behaves just like it does in any other function. Hurray!
-- In JavaScript, factory functions are simply constructor functions minus the `new` requirement, global pollution danger and awkward limitations (including that annoying initial capitalized letter convention)...
-
----
-## [[Understanding State and Props in React]]
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article2.74d541386bbf.png)
-
-## Metadata
-- Author: [[Ruairidh Wynne-McHardy]]
-- Full Title: Understanding State and Props in React
-- Category: #articles
-- URL: https://medium.com/p/94bc09232b9c
-
-## Highlights
-- State is used for mutable data, or data that will change. This is particularly useful for user input. Think search bars for example. The user will type in data and this will update what they see.
-- Props are used to pass data from parent to child or by the component itself. They are immutable and thus will not be changed.
-- Props and State do similar things but are used in different ways. The majority of your components will probably be stateless.
-- So state is used so that a component can keep track of information in between any renders that it does. When you setState it updates the state object and then re-renders the component. This is super cool because that means React takes care of the hard work and is blazingly fast...
-
----
-
----
-## [[Use a Render Prop]]
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article1.be68295a7e40.png)
-
-## Metadata
-- Author: [[Michael Jackson]]
-- Full Title: Use a Render Prop!
-- Category: #articles
-- URL: https://medium.com/p/50de598f11ce
-
-## Highlights
-- A render prop is a function prop that a component uses to know what to render.
----
-
----
 ## [[What I’m Telling Business People About Why Relational Databases Are So Bad]]
 
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article2.74d541386bbf.png)
@@ -410,22 +314,9 @@ Here you'll find some of my Readwise highlights on the articles I've read.
 ---
 
 ---
-## [[When I’m Hiring, I Find Most People Don’t Understand the Purpose of Commenting.]]
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article3.5c705a01b476.png)
-
-## Metadata
-- Author: [[Brian Lee Yung Rowe]]
-- Full Title: When I’m Hiring, I Find Most People Don’t Understand the Purpose of Commenting.
-- Category: #articles
-- URL: https://medium.com/p/4f1ca936640a
-
-## Highlights
-- most people comment on the “what" and not the “why". Code that is self-documenting rarely needs an explanation of what it is doing.
----
-
----
 ## [[When the Racist Is Someone You Know and Love…]]
+
+# When the Racist Is Someone You Know and Love…
 
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article2.74d541386bbf.png)
 
@@ -436,43 +327,11 @@ Here you'll find some of my Readwise highlights on the articles I've read.
 - URL: https://medium.com/p/2933c7049182
 
 ## Highlights
-- Like most kids from dysfunctional homes, I’ve never felt good enough...
----
+- Like most kids from dysfunctional homes, I’ve never felt good enough. Especially in heightened situations like these, that overflow with money and prestige. The clues are all there. I eat too fast, from years of half-hour breaks during waitressing shifts...
+- ---
 
 ---
-## [[Why Creators Are in Less of a Rush to Quit Their Day Jobs]]
-
-![rw-book-cover](https://substackcdn.com/image/fetch/w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fad127a5d-7397-4297-b51b-902e3d856022_256x256.png)
-
-## Metadata
-- Author: [[Simon Owens]]
-- Full Title: Why Creators Are in Less of a Rush to Quit Their Day Jobs
-- Category: #articles
-- URL: https://simonowens.substack.com/p/why-creators-are-in-less-of-a-rush
-
-## Highlights
-- A small percentage will make enough to quit their 9-to-5 and pursue content creation full-time. However, a growing number of so-called “influencers” are rejecting this move, even when their follower count indicates they could be earning enough off social media alone. Instead, they are opting to keep their day jobs, and, for some, it’s proving lucrative. ([View Highlight](https://read.readwise.io/read/01gphaxcky165v1vxsp6943vzn))
-    - Tags: [[favorite]] 
-
----
-
----
-## [[Why Everyone Is Talking About Isomorphic  Universal JavaScript and Why It Matters]]
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article4.6bc1851654a0.png)
-
-## Metadata
-- Author: [[Azat Mardan]]
-- Full Title: Why Everyone Is Talking About Isomorphic / Universal JavaScript and Why It Matters
-- Category: #articles
-- URL: https://medium.com/p/38c07c87905
-
-## Highlights
-- Isomorphism as applied to web development means rendering pages on both the server and client side.
----
-
----
-# Why Most Fitness Apps Don’t Work
+## [[Why Most Fitness Apps Don’t Work]]
 
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article1.be68295a7e40.png)
 
@@ -484,22 +343,4 @@ Here you'll find some of my Readwise highlights on the articles I've read.
 
 ## Highlights
 - Evidence that the calories in, calories out theory is too simplistic is plentiful. For example, doctors have known for some time that certain medications cause patients to gain or lose weight by changing hormone levels in the body. If putting on pounds was just a matter of “energy balance” then these medications shouldn’t make people heavier. But they do.
----
-
----
-# Why the Founder of Rails Automatically Rejects 80% of Software Engineer Applicants
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article0.00998d930354.png)
-
-## Metadata
-- Author: [[Christophe Limpalair]]
-- Full Title: Why the Founder of Rails Automatically Rejects 80% of Software Engineer Applicants
-- Category: #articles
-- URL: https://medium.com/p/4e2a4d255f58
-
-## Highlights
-- Before you show off code to an employer, go through it line by line and clean it up: Have more meaningful names, delete commented out lines of code, leave meaningful comments but don’t overdo it.
-- follow standards even if it takes more time and slows you down.
----
-
 
