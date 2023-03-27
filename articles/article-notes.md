@@ -6,7 +6,6 @@ Here you'll find some of my Readwise highlights on the articles I've read.
 
 ---
 ## [[Composing Software An Introduction]]
-
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article3.5c705a01b476.png)
 
 ## Metadata
@@ -19,6 +18,8 @@ Here you'll find some of my Readwise highlights on the articles I've read.
 - Likewise, every time you chain array method calls, lodash methods, observables (RxJS, etc…) you’re composing functions. If you’re chaining, you’re composing. If you’re passing return values into other functions, you’re composing. If you call two methods in a sequence, you’re composing using this as input data.
 - The process of software development is breaking down large problems into smaller problems, building components that solve those smaller problems, then composing those components together to form a complete application.
 - In 2013, a jury found Toyota’s software development team guilty of “reckless disregard” after an accident investigation revealed spaghetti code with 10,000 global variables.
+
+![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article3.5c705a01b476.png)
 
 ---
 ## [[Essential Skills Every Developer Should Master]]
@@ -471,7 +472,7 @@ Here you'll find some of my Readwise highlights on the articles I've read.
 ---
 
 ---
-## [[Why Most Fitness Apps Don’t Work]]
+# Why Most Fitness Apps Don’t Work
 
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article1.be68295a7e40.png)
 
@@ -486,7 +487,7 @@ Here you'll find some of my Readwise highlights on the articles I've read.
 ---
 
 ---
-## [[Why the Founder of Rails Automatically Rejects 80 Percent of Software Engineer Applicants]]
+# Why the Founder of Rails Automatically Rejects 80% of Software Engineer Applicants
 
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article0.00998d930354.png)
 
