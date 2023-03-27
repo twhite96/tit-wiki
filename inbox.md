@@ -8,6 +8,9 @@ Start here:
 
 - [[movies]]
 - [[book-notes]]
+- [[article-notes]]
 - [[projects]]
 - [[quotes]]
 - [[errata]]
+- [[podcast-clips]]
+- 
