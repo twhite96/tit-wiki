@@ -6,14 +6,18 @@ The [NO-Overcast Notes Shortcut](https://www.icloud.com/shortcuts/a3563ba967ed48
 ---
 
 ---
-[[S2E1 God of War]](https://overcast.fm/+uuqj5VhSE/25:06)
+## [[S2E1 God of War]]
+
+[S2E1: God of War](https://overcast.fm/+uuqj5VhSE/25:06)
 
 ## Notes
 Why does every character need to be likable for them to be good? This is a Greek tragedy, no?
 ---
 
 ---
-[[514 My Immense Softness]](https://overcast.fm/+9mSlxBn58/13:01)
+## [[514 My Immense Softness]]
+
+[514: My Immense Softness](https://overcast.fm/+9mSlxBn58/13:01)
 
 ## Notes
 More iOS dev bullshit talking points
