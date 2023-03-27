@@ -1,6 +1,9 @@
 # Movies
 
-The latest movies I've seen this year:
+Just some notes on movies I've watched to write about on [my blog](https://www.tiffanywhite.blog/tag/movie-review/)
 
-- [[carrie]]
-- [[gamer]]
+---
+[[Gamer]]
+
+> This movie was *terrible*.
+---
