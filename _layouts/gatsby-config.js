@@ -9,6 +9,7 @@ module.exports = {
       options: {
         rootNote: "/inbox",
         contentPath: `${__dirname}/..`,
+        parseWikiLinks: true,
         ignore: [
           "**/_layouts/**",
           "**/.git/**",
