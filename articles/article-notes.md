@@ -384,3 +384,19 @@ Here you'll find some of my Readwise highlights on the articles I've read.
 
 ## Highlights
 * However, sometimes it feels like a company is moving in a direction you don’t want to follow anymore. I had this feeling first when OmniFocus introduced its built-in automation engine. Yes, it is an incredible achievement from a technical standpoint. However – how many users need this on even a semiregular basis? It seems to me that this is only used by such a tiny fraction of the user base that it feels more like being developed for themselves and probably a handful of extreme automation power users. Don’t get me wrong, no offense against extreme automation power users. I just think that they have left an approach which is useful to most of their users. I am not certain if this is something that serves them well in the future.
+---
+
+---
+## [[To Ship or Not to Ship, Headset Edition]]
+
+![rw-book-cover](https://daringfireball.net/graphics/favicon.ico?v=005)
+## Metadata
+- Author: [[John Gruber]]
+- Full Title: To Ship or Not to Ship, Headset Edition
+- Category: #articles
+- Source: Daring Fireball
+- URL: https://daringfireball.net/
+
+## Highlights
+- In September 2020, a new social network named [Telepath](https://twitter.com/telepath) launched ([View Highlight](https://read.readwise.io/read/01gwkfgta8bqje9rjs00mvvhaq))
+    - Note: Never heard of this but the name invokes Telegram, which I don't even know what happened to that app[...cont]
