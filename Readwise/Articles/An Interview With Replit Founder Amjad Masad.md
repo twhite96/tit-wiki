@@ -1,8 +1,3 @@
----
-aliases: stereotypes, stereotype, STEREOTYPE
----
-
-
 # An Interview With Replit Founder Amjad Masad
 
 ## Metadata
