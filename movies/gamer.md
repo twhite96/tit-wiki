@@ -7,5 +7,4 @@ This movie was *terrible*.
 
 > The [[An Interview With Replit Founder Amjad Masad#On Nerds|stereotypes]] are too stereotypical to be taken seriously but then again this whole movie is trying to be campy and self-aware and it fails spectacularly.
 
-
 This review can be found on [Letterboxd](https://letterboxd.com/sadsadsadiecat/film/gamer/)
