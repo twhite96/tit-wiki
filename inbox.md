@@ -8,7 +8,7 @@ Start here:
 
 - [[movies]]
 - [[book-notes]]
-- [[article-notes]]
+- [[article notes]]
 - [[projects]]
 - [[quotes]]
 - [[errata]]
