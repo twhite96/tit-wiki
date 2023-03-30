@@ -11,7 +11,6 @@ module.exports = {
         rootNote: "/inbox",
         parseWikiLinks: true,
         contentPath: `${__dirname}/..`,
-        parseWikiLinks: true,
         ignore: [
           "**/_layouts/**",
           "**/.git/**",
