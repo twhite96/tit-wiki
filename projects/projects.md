@@ -15,4 +15,4 @@ Different dev projects, blog posts, and other things I'm cooking up. 🥘
 ---
 ### Current Suburban Smarts Projects
 
-Currently [[Suburban Smarts#Dashboard Rewrite|rewriting my dashboards]]. The Home Assistant Community Forums are a playground for [[An Interview With Replit Founder Amjad Masad#On Nerds|nerds]].
+Currently [[Suburban Smarts#Dashboard Rewrite|rewriting my dashboards]]. The Home Assistant Community Forums are a playground for [[article-notes#On Nerds|nerds]].
