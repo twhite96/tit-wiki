@@ -1,4 +1,4 @@
-# Book Notes
+# Books
 
 A lot of what you see here is inspired by [amit's notes](https://wiki.amitg.net/?stackedPages=/books/My%20Book%20Notes).
 
