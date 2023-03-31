@@ -6,6 +6,12 @@ module.exports = {
   plugins: [
     `gatsby-remark-auto-headers-improved`,
     {
+      resolve: `gatsby-plugin-plausible`,
+      options: {
+        domain: `wiki.tiffanywhite.blog`,
+      },
+    },
+    {
       resolve: `gatsby-theme-garden`,
       options: {
         rootNote: "/inbox",
@@ -17,12 +23,6 @@ module.exports = {
           "**/.github/**",
           "**/.vscode/**",
         ],
-      },
-    },
-    {
-      resolve: `gatsby-plugin-plausible`,
-      options: {
-        domain: `wiki.tiffanywhite.blog`,
       },
     },
   ],
