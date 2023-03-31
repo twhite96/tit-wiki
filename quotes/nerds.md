@@ -1,4 +1,6 @@
-# On Nerds
+# Nerds
+
+## Ben Thompson at Statechery Daily Update:
 
 When you have your entire history of coding on the platform, you have your entire project history, you have your databases on Replit, you have your applications on Replit, your friends on [[An Interview With Replit Founder Amjad Masad|Replit]], we have people that make friends on Replit. They don’t have friends in real life just because they’re nerds and are on the computer all the time — their entire social network, their entire friend group is on Replit and is Replit and so that’s the kind of passion that we have on the platform, so you have that going.
   * **Note**: OMG PLEASE LET THIS NERD STEREOTYPE DIE
