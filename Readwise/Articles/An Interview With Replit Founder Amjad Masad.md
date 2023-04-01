@@ -1,3 +1,7 @@
+---
+alias: Replit
+---
+
 # An Interview With Replit Founder Amjad Masad
 
 ## Metadata
