@@ -1,3 +1,6 @@
+---
+alias: stereotypes
+---
 # Nerds
 
 ## Ben Thompson at Statechery Daily Update:

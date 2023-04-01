@@ -1,7 +1,3 @@
----
-alias: stereotypes
----
-
 # Gamer
 
 This movie was *terrible*.
