@@ -10,7 +10,7 @@
     "@fontsource/source-sans-pro": "^4.5.0",
     "gatsby": "^2.23.18",
     "gatsby-remark-auto-headers-improved": "^1.0.4",
-    "gatsby-theme-garden": "^0.1.28",
+    "gatsby-theme-garden": "^0.1.66",
     "gatsby-transformer-markdown-references": "^0.1.8",
     "gatsby-transformer-remark": "2.16.0",
     "react": "^16.3.1",
