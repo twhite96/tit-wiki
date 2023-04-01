@@ -4,7 +4,6 @@ module.exports = {
     title: `tiff's seedlings 🌱`,
   },
   plugins: [
-    `gatsby-transformer-remark`,
     `gatsby-remark-auto-headers-improved`,
     {
       resolve: `gatsby-transformer-markdown-references`,
