@@ -23,7 +23,7 @@ module.exports = {
       options: {
         rootNote: "/inbox",
         parseWikiLinks: true,
-        contentPath: `${__dirname}/..`,
+        contentPath: `/notes`,
         ignore: [
           "**/_layouts/**",
           "**/.git/**",
