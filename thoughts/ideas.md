@@ -1,6 +1,6 @@
 # Thoughts
 
-I'm trying to think about what it means to [[Making Content for Yourself|write for myself]]. A lot of times I get stuck thinking about the *what* to write and for *whom*. This is detrimental to the writing process itself; see [Andy Matushak's thoughts on writing](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C&stackedNotes=z8AfCaQJdp852orumhXPxHb3r278FHA9xZN8J&stackedNotes=z3PBVkZ2SvsAgFXkjHsycBeyS6Cw1QXf7kcD8) and [evergreen notes](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C).
+I'm trying to think about what it means to [[Making Content for Yourself]]. A lot of times I get stuck thinking about the *what* to write and for *whom*. This is detrimental to the writing process itself; see [Andy Matushak's thoughts on writing](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C&stackedNotes=z8AfCaQJdp852orumhXPxHb3r278FHA9xZN8J&stackedNotes=z3PBVkZ2SvsAgFXkjHsycBeyS6Cw1QXf7kcD8) and [evergreen notes](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C).
 
 When you don't have much of an audience does it matter who you write for?
 
