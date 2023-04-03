@@ -5,3 +5,4 @@
 - [ ] Learn more about bundler
 - [ ] Write tests and mocks to see if the class renders the Mustache html template
 - [ ] Decide if more classes and templates are necessary
+- [ ] 
