@@ -1,5 +1,5 @@
 ---
-title: spaced repetition
+title: spaced repetition for memory
 ---
 
 # Spaced Repetition Memory Systems Make Memory a Choice
