@@ -16,7 +16,8 @@ module.exports = {
     {
       resolve: `gatsby-remark-double-brackets-link`,
       options: {
-        stripBrackets: false,
+        stripBrackets: true,
+        parseWikiLinks: true,
       },
     },
     {
