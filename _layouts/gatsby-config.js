@@ -14,10 +14,18 @@ module.exports = {
       },
     },
     {
-      resolve: `gatsby-remark-double-brackets-link`,
+      resolve: `gatsby-plugin-mdx`,
       options: {
-        stripBrackets: true,
-        parseWikiLinks: true,
+        gatsbyRemarkPlugins: [
+          {
+            resolve: `gatsby-remark-double-brackets-link`,
+            options: {
+              stripBrackets: true,
+              stripBracketsFromDisplay: true,
+              parseWikiLinks: true,
+            }
+          },
+        ],
       },
     },
     {
