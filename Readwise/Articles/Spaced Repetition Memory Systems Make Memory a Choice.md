@@ -1,5 +1,5 @@
 ---
-title: spaced repetition for memory
+title: spaced repetition can help me better memorize and comprehend the things I read and consume
 ---
 
 # Spaced Repetition Memory Systems Make Memory a Choice
