@@ -1,3 +1,7 @@
+---
+title: spaced repetition
+---
+
 # Spaced Repetition Memory Systems Make Memory a Choice
 
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article2.74d541386bbf.png)
