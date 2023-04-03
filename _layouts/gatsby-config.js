@@ -1,3 +1,5 @@
+const path = require("path");
+
 module.exports = {
   pathPrefix: "",
   siteMetadata: {
@@ -9,7 +11,7 @@ module.exports = {
     {
       resolve: `gatsby-theme-garden`,
       options: {
-        contentPath: `${__dirname}/notes`,
+        contentPath: `${__dirname}/..`,
         rootNote: `/inbox`,
         parseWikiLinks: true,
       },

@@ -1,2 +1,0 @@
-# Tiffany White Blog
-
